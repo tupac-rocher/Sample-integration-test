@@ -34,6 +34,7 @@ public class Computer extends Device{
             terminalOn = true;
         }
         super.foo(2);
+        super.foo(3);
     }
 
     public void printHelloWorld(){
